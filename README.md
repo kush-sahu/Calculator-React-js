@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/react-vite-calculator.git
+   https://github.com/kush-sahu/Calculator-React-js
     cd react-vite-calculator
     ```
 
@@ -64,5 +64,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, you can reach me at [your-email@example.com](mailto:kushdev.com@gmail.com).
 
