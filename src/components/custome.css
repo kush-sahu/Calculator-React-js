@@ -1,0 +1,26 @@
+.calci {
+    border-radius: 1%;
+    border: 2px solid rgb(183, 183, 184);
+  }
+  
+  .output {
+    font-size: 2.5rem;
+    background-color: aliceblue;
+  }
+  
+  .clcbutton {
+    flex: 1 1 calc(25% - 1rem);
+    height: 3rem;
+    font-size: 1.5rem;
+  }
+  
+  .kushdev {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  @media (max-width: 768px) {
+    .calci {
+      width: 100vw;
+    }
+  }
+  
