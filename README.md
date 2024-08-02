@@ -1,4 +1,4 @@
-# React + Vite Calculator
+# Calculator Made with React + Vite 
 
 A simple calculator application built with React and Vite. This project demonstrates basic arithmetic operations and showcases how to set up a React project with Vite.
 
